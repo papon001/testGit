@@ -3,7 +3,13 @@ git add -all
 gitignore
 git remote add origin 
 
-git branch -d branchname
+<<<<<<< HEAD
+git branch -d branchnameTemp1
 
 Hey there from Temp1
+=======
+
+git branch -d branchnameTem
+
 Hey from Temp
+>>>>>>> 24730f31b5fe4dfff446078bceb32d8c3484019d
