@@ -2,3 +2,5 @@ Add, commit, diff, diff cached, status, log, commit, reset
 git add -all
 gitignore
 git remote add origin 
+
+git branch -d branchname
